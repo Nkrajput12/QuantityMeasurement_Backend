@@ -36,7 +36,15 @@ builder.Services.AddAuthentication(option =>
 });
 
 //connection string
-string conn = builder.Configuration.GetConnectionString("DefaultConnection");
+var conn = (builder.Configuration.GetConnectionString("DefaultConnection") ?? "")
+    .Trim()
+    .Trim('"')
+    .Trim('\'')
+    .Replace("Channel Binding=Require;", "")
+    .Replace("Channel Binding=Require", "");
+
+if (string.IsNullOrEmpty(conn))
+    throw new Exception("CONNECTION STRING IS EMPTY - check Render environment variables");
 // Add services to the container.
 builder.Services.AddDbContext<MeasurementDbContext>(option => option.UseNpgsql(conn));
 //Repo
