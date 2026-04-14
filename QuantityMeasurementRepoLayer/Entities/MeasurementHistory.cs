@@ -12,7 +12,7 @@ public class MeasurementHistory
     public string OperationType {get; set;} = string.Empty;
     public string InputDetails { get; set; } = string.Empty;
     public string Result { get; set; } = string.Empty;
-    public DateTime Timestamp { get; set; } = DateTime.UtcNow;
+    public DateTime Timestamp { get; set; } = DateTime.Now;
 
     public int? UserId{get; set;}
 
