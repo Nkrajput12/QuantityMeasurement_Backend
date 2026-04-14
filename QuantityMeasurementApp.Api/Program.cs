@@ -29,7 +29,7 @@ builder.Services.AddAuthentication(option =>
     option.TokenValidationParameters = new TokenValidationParameters
     {
         ValidateIssuerSigningKey = true,
-        IssuerSigningKey = new SymmetricSecurityKey(key),   
+        IssuerSigningKey = new SymmetricSecurityKey(key),
         ValidateIssuer = false,
         ValidateAudience = false
     };
@@ -41,11 +41,11 @@ string conn = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<MeasurementDbContext>(option => option.UseNpgsql(conn));
 //Repo
 builder.Services.AddSingleton<ICacheRepository, InMemoryCacheRepository>();
-builder.Services.AddScoped<IDatabaseRepository,DatabaseRepository>();
-builder.Services.AddScoped<IAuthRepository,AuthRepository>();
+builder.Services.AddScoped<IDatabaseRepository, DatabaseRepository>();
+builder.Services.AddScoped<IAuthRepository, AuthRepository>();
 //Services
 builder.Services.AddScoped<IQuantityMeasurementService, QuantityMeasurementService>();
-builder.Services.AddScoped<IAuthService,AuthService>();
+builder.Services.AddScoped<IAuthService, AuthService>();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -56,7 +56,7 @@ builder.Services.AddSwaggerGen(c =>
     {
         Name = "Authorization",
         Type = SecuritySchemeType.Http,
-        Scheme = "bearer", 
+        Scheme = "bearer",
         BearerFormat = "JWT",
         In = ParameterLocation.Header,
         Description = "Paste your JWT Token here."
@@ -85,19 +85,17 @@ builder.Services.AddCors(options =>
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    // app.MapOpenApi();
-    app.UseSwagger();
-    app.UseSwaggerUI();
+// app.MapOpenApi();
+app.UseSwagger();
+app.UseSwaggerUI();
 
-    using (var scope = app.Services.CreateScope())
+using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<MeasurementDbContext>();
     db.Database.Migrate();
 }
-    
-}
+
+
 
 // app.UseHttpsRedirection();
 app.UseCors();
