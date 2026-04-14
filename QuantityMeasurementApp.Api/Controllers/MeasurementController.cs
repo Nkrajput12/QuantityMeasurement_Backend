@@ -134,7 +134,7 @@
                     }
                     catch (Exception ex)
                     {
-                        return BadRequest(ex.Message);
+                        return BadRequest(new {message = ex.Meassage,inner = ex.InnerException?.Meassage});
                     }
                 }
 
