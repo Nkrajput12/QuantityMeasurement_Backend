@@ -1,0 +1,824 @@
+[
+  {
+    "OperationType": "Addition",
+    "InputDetails": "12 Inches \u002B 2 Feet",
+    "Result": "1 yd",
+    "Timestamp": "2026-03-20T15:36:37.0681197+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Feet",
+    "Result": "1 ft",
+    "Timestamp": "2026-03-23T14:17:52.9965005+05:30"
+  },
+  {
+    "OperationType": "Comparison",
+    "InputDetails": "12 Inches == 1 Feet",
+    "Result": "True",
+    "Timestamp": "2026-03-23T14:31:06.9447225+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "10 Litre \u002B 10 Gallon",
+    "Result": "47.85 L",
+    "Timestamp": "2026-03-24T12:35:53.9119018+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "1 Feet to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-03-25T16:27:52.1794598+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "1 Feet \u002B 2 Feet",
+    "Result": "36 in",
+    "Timestamp": "2026-03-25T19:16:09.4200484+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "1 Litre to Gallon",
+    "Result": "0.26 gal",
+    "Timestamp": "2026-03-30T11:17:40.7914135+05:30"
+  },
+  {
+    "OperationType": "Subtraction",
+    "InputDetails": "30 Celsius - 12 Fahrenheit",
+    "Result": "314.26 K",
+    "Timestamp": "2026-03-30T13:54:56.242822+05:30"
+  },
+  {
+    "OperationType": "Comparison",
+    "InputDetails": "12 Inches == 1 Feet",
+    "Result": "True",
+    "Timestamp": "2026-03-31T15:45:48.6742674+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "12 Inches \u002B 1 Feet",
+    "Result": "2 ft",
+    "Timestamp": "2026-03-31T15:46:19.5702086+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Feet",
+    "Result": "1 ft",
+    "Timestamp": "2026-03-31T15:48:24.8601548+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Feet",
+    "Result": "1 ft",
+    "Timestamp": "2026-03-31T15:48:41.9982768+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "36 Inches to Yards",
+    "Result": "1 yd",
+    "Timestamp": "2026-03-31T16:21:08.5382839+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "5 Feet to Centimeters",
+    "Result": "152.4 cm",
+    "Timestamp": "2026-03-31T16:40:09.8620007+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "-1 Feet to Centimeters",
+    "Result": "-30.48 cm",
+    "Timestamp": "2026-03-31T16:40:23.7442575+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "1 Feet to Centimeters",
+    "Result": "30.48 cm",
+    "Timestamp": "2026-03-31T16:41:22.1573167+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "4 Inches \u002B 3 Feet",
+    "Result": "40 in",
+    "Timestamp": "2026-03-31T16:46:40.6528176+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "2 Celsius to Celsius",
+    "Result": "2 \u00B0C",
+    "Timestamp": "2026-03-31T16:47:26.0849152+05:30"
+  },
+  {
+    "OperationType": "Comparison",
+    "InputDetails": "1 Inches == 1 Feet",
+    "Result": "False",
+    "Timestamp": "2026-03-31T16:47:43.1393369+05:30"
+  },
+  {
+    "OperationType": "Comparison",
+    "InputDetails": "3 Inches == 3 Inches",
+    "Result": "True",
+    "Timestamp": "2026-03-31T16:48:06.0228959+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "1 Celsius to Fahrenheit",
+    "Result": "33.8 \u00B0F",
+    "Timestamp": "2026-04-01T10:33:57.7550576+05:30"
+  },
+  {
+    "OperationType": "Comparison",
+    "InputDetails": "12 Inches == 1 Feet",
+    "Result": "True",
+    "Timestamp": "2026-04-01T10:34:21.5280161+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "12 Inches \u002B 1 Feet",
+    "Result": "24 in",
+    "Timestamp": "2026-04-01T10:34:36.9407127+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "1 Inches \u002B 1 Feet",
+    "Result": "13 in",
+    "Timestamp": "2026-04-01T10:44:24.7595874+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "1 Inches \u002B 2 Feet",
+    "Result": "25 in",
+    "Timestamp": "2026-04-01T10:45:19.6824432+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "12 Inches \u002B 3 Feet",
+    "Result": "48 in",
+    "Timestamp": "2026-04-01T10:47:06.6817109+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "1 Inches \u002B 6 Feet",
+    "Result": "73 in",
+    "Timestamp": "2026-04-01T10:48:47.7528272+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "1 Inches \u002B 3 Feet",
+    "Result": "37 in",
+    "Timestamp": "2026-04-01T10:55:42.7745923+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "1 Inches \u002B 14 Feet",
+    "Result": "169 in",
+    "Timestamp": "2026-04-01T10:57:37.5129473+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "1 Inches \u002B 1 Feet",
+    "Result": "13 in",
+    "Timestamp": "2026-04-01T11:03:57.1847849+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "1 Inches \u002B 1 Feet",
+    "Result": "13 in",
+    "Timestamp": "2026-04-01T11:06:07.8024637+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "1 Inches \u002B -16 Feet",
+    "Result": "-191 in",
+    "Timestamp": "2026-04-01T11:06:17.4065171+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "1 Inches \u002B 512 Feet",
+    "Result": "6145 in",
+    "Timestamp": "2026-04-01T11:08:39.5395213+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "2 Inches \u002B -7 Feet",
+    "Result": "-82 in",
+    "Timestamp": "2026-04-01T11:08:48.4268764+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "3 Inches \u002B 6 Feet",
+    "Result": "75 in",
+    "Timestamp": "2026-04-01T11:08:58.1468099+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "1 Inches \u002B 1 Feet",
+    "Result": "13 in",
+    "Timestamp": "2026-04-01T11:14:39.2927289+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "3 Inches to Feet",
+    "Result": "0.25 ft",
+    "Timestamp": "2026-04-01T11:15:36.5414544+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "3 Feet to Inches",
+    "Result": "36 in",
+    "Timestamp": "2026-04-01T11:18:32.9274029+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Feet to Inches",
+    "Result": "144 in",
+    "Timestamp": "2026-04-02T17:28:59.3602378+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "12 Inches \u002B 1 Yards",
+    "Result": "48 in",
+    "Timestamp": "2026-04-03T11:22:54.2643427+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "2 Celsius to Fahrenheit",
+    "Result": "35.6 \u00B0F",
+    "Timestamp": "2026-04-03T11:26:21.2001812+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Kilograms to Grams",
+    "Result": "12000 g",
+    "Timestamp": "2026-04-03T11:33:11.3877234+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Kilograms to Grams",
+    "Result": "12000 g",
+    "Timestamp": "2026-04-03T11:33:27.048083+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Feet to Inches",
+    "Result": "144 in",
+    "Timestamp": "2026-04-03T11:37:17.5051303+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T11:37:24.8055147+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Feet",
+    "Result": "1 ft",
+    "Timestamp": "2026-04-03T11:41:57.8557327+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T11:42:05.8969787+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Feet",
+    "Result": "1 ft",
+    "Timestamp": "2026-04-03T11:42:36.8962739+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T11:42:43.6198758+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T11:44:54.9235057+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T11:45:05.1294718+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T11:49:21.5051929+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T11:49:26.4901746+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T11:49:31.597804+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T11:50:28.7727062+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T11:50:32.8240159+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Feet",
+    "Result": "1 ft",
+    "Timestamp": "2026-04-03T11:54:01.9597986+05:30"
+  },
+  {
+    "OperationType": "Subtraction",
+    "InputDetails": "12 Inches - 12 Inches",
+    "Result": "0 yd",
+    "Timestamp": "2026-04-03T11:54:28.016511+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Kilograms to Grams",
+    "Result": "12000 g",
+    "Timestamp": "2026-04-03T12:02:52.7098251+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:03:01.8992503+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:09:47.9435517+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:09:54.2544333+05:30"
+  },
+  {
+    "OperationType": "Comparison",
+    "InputDetails": "12 Inches == 1 Feet",
+    "Result": "True",
+    "Timestamp": "2026-04-03T12:12:44.5605793+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:10.7671818+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:16.1172853+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:17.1026683+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:17.7955427+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:18.2921535+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:18.7072394+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:19.114016+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:19.47224+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:19.8480437+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:20.3153695+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:20.7794011+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:21.7087497+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:22.4845974+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:23.2842593+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:24.1354569+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:25.0680822+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:25.9455195+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:26.7723562+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:27.7964933+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:28.7940309+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:30.1619257+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:31.0826824+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:31.8592878+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:30:33.2463235+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:33:49.9586366+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:33:58.1351971+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:37:12.4219489+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:37:13.5958929+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:37:14.5922911+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:37:15.5406866+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:37:16.5391467+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:37:17.4884672+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:37:18.3902342+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:37:19.267435+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:37:20.1682445+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:44:28.580095+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:44:29.7407881+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:44:30.6028895+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:44:31.4880809+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:44:32.2850202+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:44:33.2063052+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:44:34.3304843+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T12:44:35.1756286+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T13:03:03.6120903+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T13:11:27.4328111+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T13:14:18.1656232+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "15 Feet to Inches",
+    "Result": "180 in",
+    "Timestamp": "2026-04-03T13:14:24.9820818+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "15 Inches to Inches",
+    "Result": "15 in",
+    "Timestamp": "2026-04-03T13:14:26.2088196+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "15 Inches to Inches",
+    "Result": "15 in",
+    "Timestamp": "2026-04-03T13:14:27.1319976+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "15 Inches to Inches",
+    "Result": "15 in",
+    "Timestamp": "2026-04-03T13:14:28.0977012+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "15 Inches to Inches",
+    "Result": "15 in",
+    "Timestamp": "2026-04-03T13:14:29.1561632+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "15 Feet to Inches",
+    "Result": "180 in",
+    "Timestamp": "2026-04-03T13:14:32.7982526+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T13:18:47.4646833+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "15 Inches to Inches",
+    "Result": "15 in",
+    "Timestamp": "2026-04-03T13:19:25.6118775+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "15 Inches to Inches",
+    "Result": "15 in",
+    "Timestamp": "2026-04-03T13:26:23.7665819+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "15 Inches to Inches",
+    "Result": "15 in",
+    "Timestamp": "2026-04-03T13:53:12.592134+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "15 Inches to Inches",
+    "Result": "15 in",
+    "Timestamp": "2026-04-03T13:53:13.9915037+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "15 Inches to Inches",
+    "Result": "15 in",
+    "Timestamp": "2026-04-03T13:53:14.9719035+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "15 Inches to Inches",
+    "Result": "15 in",
+    "Timestamp": "2026-04-03T13:53:15.9559616+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T14:03:51.0575882+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T14:03:54.9349485+05:30"
+  },
+  {
+    "OperationType": "Subtraction",
+    "InputDetails": "12 Celsius - 0 Celsius",
+    "Result": "12 \u00B0C",
+    "Timestamp": "2026-04-03T14:05:03.249864+05:30"
+  },
+  {
+    "OperationType": "Subtraction",
+    "InputDetails": "0 Inches - 0 Inches",
+    "Result": "0 in",
+    "Timestamp": "2026-04-03T14:05:05.3658305+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T14:09:47.8599025+05:30"
+  },
+  {
+    "OperationType": "Addition",
+    "InputDetails": "12 Inches \u002B 13 Inches",
+    "Result": "2.08 ft",
+    "Timestamp": "2026-04-03T14:09:58.2184285+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Yards to Centimeters",
+    "Result": "1097.28 cm",
+    "Timestamp": "2026-04-03T14:15:09.573476+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T14:15:26.7484349+05:30"
+  },
+  {
+    "OperationType": "Division",
+    "InputDetails": "12 Inches / 12 Inches",
+    "Result": "1",
+    "Timestamp": "2026-04-03T14:15:35.9661595+05:30"
+  },
+  {
+    "OperationType": "Comparison",
+    "InputDetails": "12 Inches == 1 Feet",
+    "Result": "True",
+    "Timestamp": "2026-04-03T14:19:43.1018687+05:30"
+  },
+  {
+    "OperationType": "Subtraction",
+    "InputDetails": "12 Fahrenheit - 12 Celsius",
+    "Result": "-9.6 \u00B0F",
+    "Timestamp": "2026-04-03T14:22:57.1625133+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Pound to Grams",
+    "Result": "5443.1 g",
+    "Timestamp": "2026-04-03T14:35:32.145349+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Inches",
+    "Result": "12 in",
+    "Timestamp": "2026-04-03T14:35:41.0787221+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Inches to Feet",
+    "Result": "1 ft",
+    "Timestamp": "2026-04-08T16:30:05.4021063+05:30"
+  },
+  {
+    "OperationType": "Conversion",
+    "InputDetails": "12 Celsius to Fahrenheit",
+    "Result": "53.6 \u00B0F",
+    "Timestamp": "2026-04-08T16:32:02.1999969+05:30"
+  }
+]
